@@ -12,6 +12,8 @@ It creates Microsoft Entra-joined Windows 11 multi-session hosts, an AVD workspa
 
 [Editable Draw.io file](diagrams/avd-architecture.drawio)
 
+A step-by-step walkthrough of this lab is on the blog: [Deploy an AVD Quick Lab with Terraform](https://adnanasiddiqui.com/terraform-labs/avd-quick-lab/).
+
 ## What gets deployed
 
 | Component | Default configuration |
